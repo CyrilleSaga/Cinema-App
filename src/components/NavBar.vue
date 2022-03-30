@@ -26,6 +26,7 @@ export default {
         padding: 15px 2em;
         background-color: #21252B;
         justify-content: space-between;
+        margin-bottom: 1%;
 
         a.logo {
             color: white;

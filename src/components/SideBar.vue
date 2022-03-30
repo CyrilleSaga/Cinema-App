@@ -44,7 +44,7 @@ export default {
 .side_bar {
     background-color: #21252B;
     width: 15%;
-    margin: 1% 0 1% 1%;
+    margin: 0 1%;
     padding: 1% 1.5%;
 
     h3 {
